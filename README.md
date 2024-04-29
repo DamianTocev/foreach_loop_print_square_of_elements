@@ -1,0 +1,2 @@
+# foreach_loop_print_square_of_elements
+foreach_loop_print_square_of_elements
